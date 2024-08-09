@@ -1,1 +1,9 @@
 telethon==1.34.0
+APScheduler
+pytz
+asyncio
+tgcrypto
+motor
+flask
+gunicorn==20.1.0
+aiohttp
